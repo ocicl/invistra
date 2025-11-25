@@ -4,6 +4,6 @@ A portable and extensible Common Lisp FORMAT implementation
 
 |---------+-------------------------------------------------------------------------------|
 | source  | git:https://github.com/s-expressionists/Invistra.git                          |
-| commit  | fa07a0e                                                                       |
+| commit  | cd9e2b4                                                                       |
 | systems | invistra invistra-numeral invistra-extrinsic                                  |
 |---------+-------------------------------------------------------------------------------|
